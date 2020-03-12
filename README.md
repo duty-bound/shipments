@@ -1,6 +1,4 @@
-# FreightHub Frontend Coding Challenge
-
-## Stephen Saliba
+# Shipments Tracking System Interface
 
 ![](/screenshots/main.png)
 
