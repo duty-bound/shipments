@@ -1,0 +1,7 @@
+node_modules
+/dist/index_bundle.js
+/dist/index_bundle.js.map
+cypress/plugins
+cypress/screenshots
+cypress/support
+cypress/videos
